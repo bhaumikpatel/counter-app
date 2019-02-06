@@ -24,5 +24,12 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "license": "MIT"
+  "keywords": ["React"],
+  "license": "MIT",
+  "author": "Bhaumik Patel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhaumikpatel/counter-app.git"
+  },
+  "homepage": "http://react-counter-app.surge.sh/"
 }
